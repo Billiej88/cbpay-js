@@ -12,3 +12,4 @@ jobs:
       uses: federacy/scan-action@0.1.4
       with:
         active_scanners: "\n  - PatternSearch\n  - Semgrep\n  - Trufflehog\n  - YarnAudit"
+   
